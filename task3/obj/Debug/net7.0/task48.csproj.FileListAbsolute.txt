@@ -1,0 +1,14 @@
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\bin\Debug\net7.0\task48.exe
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\bin\Debug\net7.0\task48.deps.json
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\bin\Debug\net7.0\task48.runtimeconfig.json
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\bin\Debug\net7.0\task48.dll
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\bin\Debug\net7.0\task48.pdb
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\obj\Debug\net7.0\task48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\obj\Debug\net7.0\task48.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\obj\Debug\net7.0\task48.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\obj\Debug\net7.0\task48.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\obj\Debug\net7.0\task48.dll
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\obj\Debug\net7.0\refint\task48.dll
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\obj\Debug\net7.0\task48.pdb
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\obj\Debug\net7.0\task48.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Sem1-main (1)\Sem1-main\Sem7\task3\obj\Debug\net7.0\ref\task48.dll
